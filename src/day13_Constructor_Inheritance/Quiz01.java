@@ -31,6 +31,6 @@ public class Quiz01 {
                 }
         }
         public void times() {
-                
+               
         }
 }
